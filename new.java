@@ -1,3 +1,4 @@
-class New {}
+class java {}
 ddd
+xxxx
 
